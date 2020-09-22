@@ -1,9 +1,10 @@
-### Hi there 👋
-
 ![](https://images.cooltext.com/5465530.png)
-<a href="https://cooltext.com" target="_top">Cool Text: Logo and Graphics Generator</a>
 
-Here are some ideas to get you started:
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+### Hola! 👋
+
+Un poco sobre mi:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
