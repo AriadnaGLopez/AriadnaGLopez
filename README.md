@@ -21,13 +21,13 @@ en el Instituto Tecnologico de Tijuana.
 |:------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 |        **Hora**       |                               |                               |                               |                               |                               |
 |                    |             **Lunes**             |             **Martes**            |           **Miercoles**          |            **Jueves**             |            **Viernes**            |
-|        8:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
-|        9:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
-|        10:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
-|        11:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
-|        12:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
-|        1:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
-|        2:00        |             Comer             |             Comer             |             Comer             |             Comer             |             Comer             |
-|        3:00        |           Clase GPS           |           Clase GPS           |           Clase GPS           |           Clase GPS           |           Clase GPS           |
-|        4:00        |           Hora libre          |           Hora libre          |           Hora libre          |           Hora libre          |           Hora libre          |
-|        5:00        | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables |
+|        *8:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
+|        *9:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
+|        *10:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
+|        *11:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
+|        *12:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
+|        *1:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
+|        *2:00        |             Comer             |             Comer             |             Comer             |             Comer             |             Comer             |
+|        *3:00        |           Clase GPS           |           Clase GPS           |           Clase GPS           |           Clase GPS           |           Clase GPS           |
+|        *4:00        |           Hora libre          |           Hora libre          |           Hora libre          |           Hora libre          |           Hora libre          |
+|        *5:00        | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables |
