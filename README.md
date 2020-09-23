@@ -4,7 +4,7 @@
 
 ### ¡Hola! 👋
 
-Mi nombre es ✨ Ariadna Lopez ✨ y soy estudiante de la carrera de Ingenieria en Sistemas computacionales 
+Mi nombre es ✨ *Ariadna Lopez* ✨ y soy estudiante de la carrera de Ingenieria en Sistemas computacionales 
 en el Instituto Tecnologico de Tijuana.
 
 - 🔭 Trabajo como practicante en el area de desarrollo en la empresa Arte Digital. 
@@ -15,12 +15,12 @@ en el Instituto Tecnologico de Tijuana.
 
 🌱Uno de mis mas grandes sueños es viajar por el mundo y conocer lugares nuevos.🌱
 
-## Te cuento lo que hago en mi dia:
+### Te cuento lo que hago en mi dia:
 
-| Mi rutina del dia. |                               |                               |                               |                               |                               |
+| ***Mi rutina del dia.*** |                               |                               |                               |                               |                               |
 |:------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-|        Hora        |                               |                               |                               |                               |                               |
-|                    |             Lunes             |             Martes            |           Miercoles           |            Jueves             |            Viernes            |
+|        **Hora**       |                               |                               |                               |                               |                               |
+|                    |             **Lunes**             |             **Martes**            |           **Miercoles**          |            **Jueves**             |            **Viernes**            |
 |        8:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
 |        9:00        |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
 |        10:00       |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |            Trabajar           |
