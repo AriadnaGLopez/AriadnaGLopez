@@ -17,15 +17,17 @@ en el Instituto Tecnologico de Tijuana.
 
 ## Te cuento lo que hago en mi dia:
 
-Hora  &                             &                             &                             &                             &                             \\
-      & Lunes                       & Martes                      & Miercoles                   & Jueves                      & Viernes                     \\
-8:00  & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   \\
-9:00  &                             &                             &                             &                             &                             \\
-10:00 &                             &                             &                             &                             &                             \\
-11:00 &                             &                             &                             &                             &                             \\
-12:00 &                             &                             &                             &                             &                             \\
-1:00  &                             &                             &                             &                             &                             \\
-2:00  & Comer                       & Comer                       & Comer                       & Comer                       & Comer                       \\
-3:00  & Clase GPS                   & Clase GPS                   & Clase GPS                   & Clase GPS                   & Clase GPS                   \\
-4:00  & Hora libre                  & Hora libre                  & Hora libre                  & Hora libre                  & Hora libre                  \\
-5:00  & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables                                                                                                               \\
+| Mi rutina del dia. |                               |                               |                               |                               |                               |
+|--------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+| Hora               |                               |                               |                               |                               |                               |
+|                    | Lunes                         | Martes                        | Miercoles                     | Jueves                        | Viernes                       |
+| 8:00               | Trabajar                      | Trabajar                      | Trabajar                      | Trabajar                      | Trabajar                      |
+| 9:00               |                               |                               |                               |                               |                               |
+| 10:00              |                               |                               |                               |                               |                               |
+| 11:00              |                               |                               |                               |                               |                               |
+| 12:00              |                               |                               |                               |                               |                               |
+| 1:00               |                               |                               |                               |                               |                               |
+| 2:00               | Comer                         | Comer                         | Comer                         | Comer                         | Comer                         |
+| 3:00               | Clase GPS                     | Clase GPS                     | Clase GPS                     | Clase GPS                     | Clase GPS                     |
+| 4:00               | Hora libre                    | Hora libre                    | Hora libre                    | Hora libre                    | Hora libre                    |
+| 5:00               | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables | Clase Sistemas   Programables |
