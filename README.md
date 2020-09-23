@@ -17,11 +17,6 @@ en el Instituto Tecnologico de Tijuana.
 
 ## Te cuento lo que hago en mi dia:
 
-% Please add the following required packages to your document preamble:
-% \usepackage{multirow}
-\begin{table}[]
-\begin{tabular}{llllll}
-\multicolumn{6}{l}{Mi   rutina del dia.}                                                                                                                    \\
 Hora  &                             &                             &                             &                             &                             \\
       & Lunes                       & Martes                      & Miercoles                   & Jueves                      & Viernes                     \\
 8:00  & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   & \multirow{6}{*}{Trabajar}   \\
@@ -33,6 +28,4 @@ Hora  &                             &                             &             
 2:00  & Comer                       & Comer                       & Comer                       & Comer                       & Comer                       \\
 3:00  & Clase GPS                   & Clase GPS                   & Clase GPS                   & Clase GPS                   & Clase GPS                   \\
 4:00  & Hora libre                  & Hora libre                  & Hora libre                  & Hora libre                  & Hora libre                  \\
-5:00  & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables
-\end{tabular}
-\end{table}
+5:00  & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables & Clase Sistemas Programables                                                                                                               \\
