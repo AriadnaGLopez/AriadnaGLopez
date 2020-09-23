@@ -4,7 +4,8 @@
 
 ### ¡Hola! 👋
 
-Mi nombre es ✨ Ariadna Lopez ✨ y soy estudiante de la carrera de Ingenieria en Sistemas computacionales en el Instituto Tecnologico de Tijuana.
+Mi nombre es ✨ Ariadna Lopez ✨ y soy estudiante de la carrera de Ingenieria en Sistemas computacionales 
+en el Instituto Tecnologico de Tijuana.
 
 - 🔭 Trabajo como practicante en el area de desarrollo en la empresa Arte Digital. 
 - 🌱 Me gusta trabajar con todo lo que se relaciona con el FrontEnd, diseño de paginas, diseño de proyectos, maquetados, etc.
