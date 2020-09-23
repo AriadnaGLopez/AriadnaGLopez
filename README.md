@@ -13,4 +13,4 @@ en el Instituto Tecnologico de Tijuana.
 - 😄 Soy una entusiasta de la musica y de la lectura, asi como tambien de las series. 
 - ⚡ Actualmente estoy aprendiendo Coreano. 
 
-🌱Uno de mis mas grandes sueños es viajar por el mundo y conocer nuevos.🌱
+🌱Uno de mis mas grandes sueños es viajar por el mundo y conocer lugares nuevos.🌱
